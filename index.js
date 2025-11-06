@@ -1,5 +1,5 @@
 const jsonServer = require("json-server");
-
+const cors = require("cors");
 const resumeServer = jsonServer.create();
 
 const router = jsonServer.router("db.json");
