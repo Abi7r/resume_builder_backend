@@ -834,6 +834,39 @@
       ],
       "summary": "fthfth",
       "id": 29
+    },
+    {
+      "personalDetails": {
+        "name": "sdfsd",
+        "jobTitle": "sdf",
+        "portfolio": "",
+        "email": "sdef",
+        "gitHub": "",
+        "linkedIn": "",
+        "location": "sdfs",
+        "phoneNo": "sdf"
+      },
+      "education": {
+        "course": "",
+        "college": "",
+        "university": "",
+        "year": ""
+      },
+      "experience": {
+        "job": "",
+        "company": "",
+        "duration": "",
+        "location": ""
+      },
+      "skills": [
+        "Git",
+        "Javascript",
+        "MongoDb",
+        "Express",
+        "Node"
+      ],
+      "summary": "fsdgdfgd",
+      "id": 30
     }
   ],
   "history": [

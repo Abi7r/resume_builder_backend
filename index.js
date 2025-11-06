@@ -8,6 +8,8 @@ const middleware = jsonServer.defaults();
 
 const PORT = 3000 || process.env.PORT;
 
+resumeServer.use(cors());
+
 resumeServer.use(middleware);
 
 resumeServer.use(router);
